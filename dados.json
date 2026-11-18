@@ -1,0 +1,10 @@
+{
+  "historico": {
+    "pedra": 0,
+    "papel": 0,
+    "tesoura": 0
+  },
+  "vitorias": 0,
+  "derrotas": 0,
+  "empates": 0
+}
